@@ -11,7 +11,9 @@ clear and accurate.
 Questions:
 Does the company have a stable transaction trend? Show the answer  
 on a month to month basis.
+
 What can we tell about the distribution status between the regions  
 and in terms of returned items?
+
 How does the shipping fee differ between regions? Can we find any  
 other insights about the shipping trends?
